@@ -24,7 +24,7 @@ li::before {
 }
 
 ol {
-    counter-reset: list-item 0;
+    counter-reset: list-item;
 }
 span {
     background-color: rgba(159,53,75,255);
